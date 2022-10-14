@@ -6,6 +6,7 @@ import Footer from "./Footer";
 import GroupedTeamMembers from "./GroupedTeamMembers";
 import Nav from "./Nav";
 import NotFound from "./NotFound";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
 function App() {
